@@ -1,0 +1,48 @@
+.background{
+    background-color: rgb(247, 248, 246);
+}
+.margin{
+    margin: 100px;
+}
+.navber{
+    padding-left: 200px;
+    background-color: none;
+}
+button{
+    color:rgb(252, 252, 253);
+    border-radius:10px;
+    background-color: rgb(57, 67, 209);
+    font-size: 20px;
+}
+.carousel-h1{
+    font-size:60px;
+}
+.carousel-p{
+    font-size: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(247, 248, 246);
+}
+.difference{
+    background-color: white;
+    box-shadow: 6px 6px 6px rgb(168, 161, 161);
+}
+.card container{
+    margin: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.Course{
+    background-color: white;
+    box-shadow: 8px 8px 13px gray; 
+}
+.testimonial{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
